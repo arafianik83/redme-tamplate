@@ -84,6 +84,16 @@ https://www.aiub.edu/
 
 </br>
 
-### image syntex
+### Image
 <!-- ![profile](./images/R=95075.jpg) -->
 <img src="./images/R=95075.jpg" width="200" tile="profile image"/>
+
+
+</br>
+
+### table syntex
+
+| Name | Email |  
+| ------ | ------ |
+| Abdullah Arafi | Text is here |
+| Abdullah Arafi | arafianik83@gmail.com |
